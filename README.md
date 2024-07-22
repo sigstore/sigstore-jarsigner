@@ -1,6 +1,9 @@
 sigstore-maven-plugin
 =====================
 
+> [!IMPORTANT]
+> This project has moved -- development and release has been merged into [sigstore-java](https://github.com/sigstore/sigstore-java)
+
 [![Maven Central](https://img.shields.io/maven-central/v/dev.sigstore/sigstore-maven-plugin.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/dev.sigstore/sigstore-maven-plugin)
 
 This is a Maven plugin that can be used to use the "keyless" signing paradigm supported by Sigstore.
